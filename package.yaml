@@ -1,5 +1,5 @@
 name: 张玉洁的组件13
-description: 最多标签wgwrgwrb24t524352f2g2
+description: 最多标签wgwrgwrb24t52435
 keywords:
   - websocket
   - network
@@ -10,7 +10,7 @@ keywords:
   - 999
   - 999
 
-license: MMMMMMM                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
+license: aaa                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 
 source_file:
   - src/*.c
